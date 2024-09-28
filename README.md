@@ -43,13 +43,31 @@ This project provides an interactive, fun way to practice object-oriented design
   - Detects when a player has sunk all of the opponent’s ships and announces the winner.
 - **User Interface**:
   - Command-line interface with clear prompts and output for player actions and game status.
-
+  - 
 ### Future Features to Add
 
 - **Graphical User Interface**: Develop a graphical interface for a more engaging user experience.
 - **AI Improvements**: Enhance the computer opponent's strategy to make it more challenging.
 - **Advanced Game Modes**: Introduce additional game modes or variations, such as different grid sizes or ship types.
 - **Network Play**: Implement network functionality to allow online play between different users.
+
+## Video Demonstration 
+
+### Player Selection
+
+
+https://github.com/user-attachments/assets/c3886ea1-1509-4896-8c3c-5dddb72f5625
+
+### Ship Placement
+
+https://github.com/user-attachments/assets/e87d17e1-da3f-495a-b19e-e1d8d02ecb79
+
+### Game Play
+
+https://github.com/user-attachments/assets/b4f48773-89cc-473d-bc6f-580a27373d2c
+
+
+
 
 ## Challenges Faced and Solutions
 
@@ -69,12 +87,4 @@ This project provides an interactive, fun way to practice object-oriented design
 **Problem**: Ensuring that all game logic components were thoroughly tested, including ship placement and shot validation, was challenging.
 **Solution**: Developed a comprehensive suite of unit tests using NUnit to cover critical game logic scenarios. Implemented mock objects to simulate different game states and verify the correctness of the functionality.
 
-## What I Learned
 
-- **Object-Oriented Design**: Implementing the Battleship game reinforced the importance of object-oriented principles such as encapsulation and inheritance. Designing classes for ships, grids, and game logic provided a practical understanding of these concepts.
-
-- **Game Logic and State Management**: Managing the state of the game, including ship placement and shot history, was a valuable experience in handling game state and ensuring consistent gameplay.
-
-- **Unit Testing**: Writing unit tests to cover critical functionality, such as ship placement and shot validation, highlighted the importance of testing and helped ensure the robustness of the application.
-
-- **Command-Line Interfaces**: Developing a console-based interface improved my skills in creating user interactions and managing console output effectively.
