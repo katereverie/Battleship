@@ -56,15 +56,28 @@ This project provides an interactive, fun way to practice object-oriented design
 ### Player Selection
 
 
-https://github.com/user-attachments/assets/c3886ea1-1509-4896-8c3c-5dddb72f5625
+
+
+https://github.com/user-attachments/assets/767633f1-a302-4d19-bdb8-695a91dec097
+
+
+
+
 
 ### Ship Placement
 
-https://github.com/user-attachments/assets/e87d17e1-da3f-495a-b19e-e1d8d02ecb79
+
+
+https://github.com/user-attachments/assets/b731c34b-38fb-49bc-b695-6d6b075a967a
+
+
 
 ### Game Play
 
-https://github.com/user-attachments/assets/b4f48773-89cc-473d-bc6f-580a27373d2c
+
+
+
+https://github.com/user-attachments/assets/0e9add5b-2f30-4f08-9171-cfc587a5e1e1
 
 
 
