@@ -4,18 +4,6 @@
 
 The **Battleship** project is a console-based implementation of the classic naval strategy game. This application allows two players to engage in a strategic battle to sink each other's ships on a 10x10 grid. Players can either play against each other or compete against a computer opponent. The game incorporates features such as ship placement, turn-based shooting, and game outcome detection.
 
-### Use Cases
-
-The Battleship game can be used to:
-- Play a strategic naval game against a human opponent or computer.
-- Place and manage ships on a grid with rules for valid placement.
-- Take turns shooting at the opponent’s grid and track hits and misses.
-- Determine and announce the winner once all ships of an opponent are sunk.
-
-### Problems Solved
-
-This project provides an interactive, fun way to practice object-oriented design and game logic. It simplifies the traditional Battleship game into a console application, allowing users to focus on game mechanics and user interaction. It also serves as a solid foundation for adding more advanced features and improving user interfaces in future versions.
-
 ## Technology Stack
 
 ### Programming Languages
@@ -55,32 +43,15 @@ This project provides an interactive, fun way to practice object-oriented design
 
 ### Player Selection
 
-
-
-
 https://github.com/user-attachments/assets/767633f1-a302-4d19-bdb8-695a91dec097
-
-
-
-
 
 ### Ship Placement
 
-
-
 https://github.com/user-attachments/assets/b731c34b-38fb-49bc-b695-6d6b075a967a
-
-
 
 ### Game Play
 
-
-
-
 https://github.com/user-attachments/assets/0e9add5b-2f30-4f08-9171-cfc587a5e1e1
-
-
-
 
 ## Challenges Faced and Solutions
 
