@@ -4,7 +4,7 @@
 
 The **Battleship** project is a console-based implementation of the classic naval strategy game. This application allows two players to engage in a strategic battle to sink each other's ships on a 10x10 grid. Players can either play against each other or compete against a computer opponent. The game incorporates features such as ship placement, turn-based shooting, and game outcome detection.
 
-# Architecture
+## Architecture
 
 ### Pattern (n-Tier-architecture)
 
